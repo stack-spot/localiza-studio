@@ -1,0 +1,108 @@
+name: localiza-studio
+displayName: Localiza
+picture: "studio.png"
+
+company: Localiza
+
+about: Stacks que provêm confiança e velocidade no seu desenvolvimento
+
+technologies: [".NET", "C#", "Api", "AWS DynamoDB", "AWS S3", "Docker", "Web", "React", "Citric", "NextJS", "JavaScript", "Microfrontend"]
+whoWeAre: |
+ Somos desenvolvedores apaixonados por tecnologia e estamos sempre buscando inovar em nossas soluções. Para isso, utilizamos as melhores práticas de desenvolvimento focadas em nossos valores: confiança, qualidade e velocidade.  
+ O estúdio Localiza é o primeiro estúdio a lançar produtos usando a tecnologia da StackSpot. Ele nasceu com a missão de ajudar desenvolvedores a entregar software com velocidade e confiança, para que o seu negócio consiga entregar mais funcionalidades para os clientes.  
+ Os produtos do estúdio são focados em absorver grande parte da carga cognitiva do código necessário para desenvolver desde uma simples aplicação até grandes sistemas complexos.  
+ 
+creators:
+  - displayName: Maurício Gomes(Alcides)
+    jobRole: Tech Lead
+    profileURL: "https://github.com/alcidesmauricio"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/89221304?v=4"
+
+  - displayName: Ricardo Pires
+    jobRole: Software Engineer
+    provider: github
+    profileURL: "https://github.com/ricardojosezup"
+    picture: "https://avatars.githubusercontent.com/u/62444338?v=4"
+
+  - displayName: Lucas Almeida
+    jobRole: Software Engineer
+    provider: github
+    profileURL: "https://github.com/lucas-almeida-zup"
+    picture: "https://avatars.githubusercontent.com/u/90719625?v=4" 
+
+  - displayName: Fernando Eduardo De Queiroz
+    jobRole: Software Engineer
+    profileURL: "https://github.com/fernandoqueirozzup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/68235155?v=4"
+
+  - displayName: Jose Augusto Martins Regis
+    jobRole: Software Engineer
+    profileURL: "https://github.com/ze12augusto"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/7053028?v=4"
+
+  - displayName: Jose Inacio Junior
+    jobRole: Tech Lead
+    profileURL: "https://github.com/joseinaciozup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/14913642?v=4"
+
+  - displayName: Luis Eduardo Marques 
+    jobRole: Software Engineer
+    profileURL: "https://github.com/luismarqueszup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/59897633?v=4"
+
+  - displayName: Luiz Gustavo Gomes Borges
+    jobRole: Software Engineer
+    profileURL: "https://github.com/LG95"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/9141516?v=4"
+
+  - displayName: Ricardo Jose Da Silva 
+    jobRole: Software Engineer
+    profileURL: "https://github.com/ricardojsilva"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/23244493?v=4"                
+
+  - displayName: Ricardo Rames Basilio Junior
+    jobRole: Principal
+    profileURL: "https://github.com/ricardorames"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/1824545?v=4"
+
+  - displayName: Rodrigo Fernando Silva
+    jobRole: Software Engineer
+    profileURL: "https://github.com/rodrigofernandozup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/63373278?v=4"
+
+  - displayName: Arthur Fernandes Ribeiro
+    jobRole: Software Engineer
+    profileURL: "https://github.com/arthurribeirozup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/48961051?v=4"
+
+  - displayName: Jamesson Miranda da Penha
+    jobRole: Software Engineer
+    profileURL: "https://github.com/jamessonpenhazup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/65912159?v=4" 
+
+  - displayName: Lucas Carvalho Gondim
+    jobRole: Tech Lead
+    profileURL: "https://github.com/lucasgondim"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/687407?v=4"
+
+  - displayName: Magno Cardoso Lemos
+    jobRole: Software Engineer
+    profileURL: "https://github.com/magnolemoszup"
+    provider: github
+    picture: "https://avatars.githubusercontent.com/u/81317865?v=4"       
+
+stacks:
+  - location: "https://github.com/stack-spot/localiza-api-stack"
+  - location: "https://github.com/stack-spot/localiza-front-stack"
