@@ -6,7 +6,7 @@ company: Localiza
 
 about: Stacks que provêm confiança e velocidade no seu desenvolvimento
 
-technologies: [".NET", "C#", "Api", "AWS DynamoDB", "AWS S3", "Docker", "Web", "React", "Citric", "NextJS", "JavaScript", "Microfrontend"]
+technologies: [".NET"]
 whoWeAre: |
  Somos desenvolvedores apaixonados por tecnologia e estamos sempre buscando inovar em nossas soluções. Para isso, utilizamos as melhores práticas de desenvolvimento focadas em nossos valores: confiança, qualidade e velocidade.  
  O estúdio Localiza é o primeiro estúdio a lançar produtos usando a tecnologia da StackSpot. Ele nasceu com a missão de ajudar desenvolvedores a entregar software com velocidade e confiança, para que o seu negócio consiga entregar mais funcionalidades para os clientes.  
