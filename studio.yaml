@@ -106,3 +106,4 @@ creators:
 stacks:
   - location: "https://github.com/stack-spot/localiza-api-stack"
   - location: "https://github.com/stack-spot/localiza-front-stack"
+  - location: "https://github.com/stack-spot/localiza-runtime-stack"
